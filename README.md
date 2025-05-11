@@ -1,7 +1,6 @@
-🧵 Simple Social Media Backend
 This is a simple social media backend built using Node.js, Express, MongoDB, and EJS, with Tailwind CSS for styling the frontend.
 
-✨ Features
+✨ Features -
 🔐 User Authentication
 Users can register and log in securely. Passwords are hashed using bcrypt, and JWT tokens (stored in cookies) are used for session management.
 
