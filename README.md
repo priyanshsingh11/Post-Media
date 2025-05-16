@@ -1,4 +1,4 @@
-his is a simple social media backend built using Node.js, Express, MongoDB, Multer, and EJS, with Tailwind CSS for styling the frontend.
+This is a simple social media backend built using Node.js, Express, MongoDB, Multer, and EJS, with Tailwind CSS for styling the frontend.
 
 • Features
 🔐 User Authentication
